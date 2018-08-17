@@ -54,7 +54,8 @@ public class MainActivity extends AppCompatActivity {
         //development
         int i=0;
         i=i+i+i;
+        String s="";
         System.out.print(i);
-        //comment by user
+        
     }
 }

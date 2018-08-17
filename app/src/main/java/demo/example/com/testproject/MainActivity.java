@@ -51,6 +51,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void developmentMethod(){
-        //master
+        //development
+        int i=0;
+        i=i+i;
+        System.out.print(i);
     }
 }
